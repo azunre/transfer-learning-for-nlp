@@ -1,7 +1,7 @@
 # transfer-learning-for-nlp
 Companion repository to Paul Azunre's "Transfer Learning for Natural Language Processing" Book
 
-Jupyter notebooks are organized in folders by Chapter, with each folder containing a corresponding `requirements.txt` file representing Kaggle docker image dependencies at the time of their latest succesful by the author.
+Rendered Jupyter notebooks are organized in folders by Chapter, with each folder containing a corresponding `requirements.txt` file representing Kaggle docker image dependencies at the time of their latest succesful run by the author.
 
 Ideally, run these directly on Kaggle, where their mirrors are hosted. This will require little to no setup on your part.
 
@@ -18,7 +18,7 @@ The following is an evolving list of notebooks that have been hosted so far, the
 | 2 | 2.1-2.4 | Linear & Tree-based models for IMDB Movie Review Classification | https://www.kaggle.com/azunre/tl-for-nlp-section2-1-2-4-movies
 
 
-Just hit `Copy and Edit Kernel` at the top right of each Kaggle kernel page (after creating an account) to get going right away. Note that for GPU enabled notebooks, your **FREE** Kaggle GPU time is limited (to 30 hours in February 2020). Be cautious and shut such notebooks down when not needed, when debugging non-GPU critical parts of the code, etc.
+Just hit `Copy and Edit Kernel` at the top right of each Kaggle kernel page (after creating an account) to get going right away. Note that for GPU enabled notebooks, your **FREE** Kaggle GPU time is limited (to 30 hours/week in February 2020, with the clock resetting at the end of each Friday). Be cautious and shut such notebooks down when not needed, when debugging non-GPU critical parts of the code, etc.
 
 
 
