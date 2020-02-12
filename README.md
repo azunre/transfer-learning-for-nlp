@@ -16,6 +16,10 @@ The following is an evolving list of notebooks that have been hosted so far, the
 |-------------|-------------|-------------|-------------|
 | 2 | 2.1-2.4 | Linear & Tree-based models for Email Sentiment Classification | https://www.kaggle.com/azunre/tl-for-nlp-section2-1-2-4-emails
 | 2 | 2.1-2.4 | Linear & Tree-based models for IMDB Movie Review Classification | https://www.kaggle.com/azunre/tl-for-nlp-section2-1-2-4-movies
+| 2 | 2.5 | ELMo for Email Semantic Classification | TBD
+| 2 | 2.5 | ELMo for IMDB Movie Review Classification | TBD
+| 2 | 2.6 | BERT for Email Semantic Classification | TBD
+| 2 | 2.6 | BERT for IMDB Movie Review Classification | TBD
 
 
 Just hit `Copy and Edit Kernel` at the top right of each Kaggle kernel page (after creating an account) to get going right away. Note that for GPU enabled notebooks, your **FREE** Kaggle GPU time is limited (to 30 hours/week in February 2020, with the clock resetting at the end of each Friday). Be cautious and shut such notebooks down when not needed, when debugging non-GPU critical parts of the code, etc.
