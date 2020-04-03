@@ -20,6 +20,10 @@ The following is an evolving list of notebooks that have been hosted so far, the
 | 2 | 2.5 | ELMo for IMDB Movie Review Classification | https://www.kaggle.com/azunre/tl-for-nlp-section2-5-movies-elmo
 | 2 | 2.6 | BERT for Email Semantic Classification | https://www.kaggle.com/azunre/tl-for-nlp-section2-6-emails-bert
 | 2 | 2.6 | BERT for IMDB Movie Review Classification | https://www.kaggle.com/azunre/tl-for-nlp-section2-6-movies-bert
+| 3 | 3.1 | IMDB Review Classification with word2vec and FastText | https://www.kaggle.com/azunre/tl-for-nlp-section3-1-movies-word-embeddings
+| 3 | 3.2 | IMDB Review Classification with sent2vec | https://www.kaggle.com/azunre/tl-for-nlp-section3-2-movies-sentence-embeddings
+| 3 | 3.3 | Dual Task Learning of IMDB and spam detection | https://www.kaggle.com/azunre/tl-for-nlp-section3-3-multi-task-learning
+| 3 | 3.4 | Domain adaptation of IMDB classifier to new domain of Book Review Classification | https://www.kaggle.com/azunre/tl-for-nlp-section3-4-domain-adaptation
 
 
 Just hit `Copy and Edit Kernel` at the top right of each Kaggle kernel page (after creating an account) to get going right away. Note that for GPU enabled notebooks, your **FREE** Kaggle GPU time is limited (to 30 hours/week in February 2020, with the clock resetting at the end of each Friday). Be cautious and shut such notebooks down when not needed, when debugging non-GPU critical parts of the code, etc.
