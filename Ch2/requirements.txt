@@ -563,7 +563,7 @@ tabulate==0.8.5
 tblib==1.4.0
 tensorboard==1.14.0
 tensorboardX==1.8
-tensorflow==1.14.0
+tensorflow==1.15.2
 tensorflow-estimator==1.14.0
 tensorflow-hub==0.6.0
 tensorflow-probability==0.7.0
