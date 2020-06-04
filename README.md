@@ -24,9 +24,16 @@ The following is an evolving list of notebooks that have been hosted so far, the
 | 3 | 3.2 | IMDB Review Classification with sent2vec | https://www.kaggle.com/azunre/tl-for-nlp-section3-2-movies-sentence-embeddings
 | 3 | 3.3 | Dual Task Learning of IMDB and spam detection | https://www.kaggle.com/azunre/tl-for-nlp-section3-3-multi-task-learning
 | 3 | 3.4 | Domain adaptation of IMDB classifier to new domain of Book Review Classification | https://www.kaggle.com/azunre/tl-for-nlp-section3-4-domain-adaptation
+| 4 | 4.1 & 4.3 | Using SIMOn for column data type classification on baseball and BC library OpenML datasets | https://www.kaggle.com/azunre/tl-for-nlp-section4-1-4-3-column-type-classifier
+| 4 | 4.2 & 4.4 | Using ELMo for "fake news" detection/classification | https://www.kaggle.com/azunre/tl-for-nlp-sections4-2-4-4-fake-news-elmo
+
 
 
 Just hit `Copy and Edit Kernel` at the top right of each Kaggle kernel page (after creating an account) to get going right away. Note that for GPU enabled notebooks, your **FREE** Kaggle GPU time is limited (to 30 hours/week in February 2020, with the clock resetting at the end of each Friday). Be cautious and shut such notebooks down when not needed, when debugging non-GPU critical parts of the code, etc.
+
+Kaggle  frequently  updates  the  dependencies,  i.e.,  versions  of  the  installed libraries on their docker images. To ensure that you are using the same dependencies as  we  did when  we  wrote  the  code – so  that  the  code  works  with  minimal  changes out-of-the-box – please make sure to select “Copy and Edit Kernel” for each notebook of  interest. If you  copy and paste the code into a new notebook and don’t follow this recommended process, you  may need  to adapt the code slightly for  the  specific  library versions installed for that notebook at the time you created it. 
+
+This also applies if you elect to install a local environment.   For local installation, pay attention to the frozen dependency requirement list we have shared in the companion repo, which will guide you on which versions of libraries you will need. Finally, please note that while our aim is to update the code  to Tensorflow version >=2.0 syntax by the final release date  of  the  book, currently it is implemented in the more stable version <2.0syntax.
 
 
 
