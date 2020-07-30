@@ -26,6 +26,12 @@ The following is an evolving list of notebooks that have been hosted so far, the
 | 3 | 3.4 | Domain adaptation of IMDB classifier to new domain of Book Review Classification | https://www.kaggle.com/azunre/tl-for-nlp-section3-4-domain-adaptation
 | 4 | 4.1 & 4.3 | Using SIMOn for column data type classification on baseball and BC library OpenML datasets | https://www.kaggle.com/azunre/tl-for-nlp-section4-1-4-3-column-type-classifier
 | 4 | 4.2 & 4.4 | Using ELMo for "fake news" detection/classification | https://www.kaggle.com/azunre/tl-for-nlp-sections4-2-4-4-fake-news-elmo
+| 5 | 5.1 | Transformer - self-attention visualization and English-Twi translation example with transformers library | https://www.kaggle.com/azunre/tl-for-nlp-section5-1
+| 5 | 5.2 | GPT and DialoGPT in transformers library, application to chatbot and open-ended text generation | https://www.kaggle.com/azunre/tl-for-nlp-section5-2
+| 5 | 5.3 | Applying BERT to filling-in-the-blanks and next sentence prediction | https://www.kaggle.com/azunre/tl-for-nlp-section5-3
+| 5 | 5.4.2 | Fine-tuning mBERT on monolingual Twi data with pre-trained tokenizer | https://www.kaggle.com/azunre/tl-for-nlp-section5-4-2
+| 5 | 5.4.3 | Fine-tuning mBERT on monolingual Twi data with tokenizer trained from scratch | https://www.kaggle.com/azunre/tl-for-nlp-section5-4-3
+
 
 
 
