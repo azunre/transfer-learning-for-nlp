@@ -362,7 +362,7 @@ netCDF4==1.5.3
 networkx==2.4
 nibabel==3.1.1
 nilearn==0.6.2
-nltk==3.2.4
+nltk==3.4.5
 nnabla==1.9.0
 nolearn==0.6.1
 nose==1.3.7
