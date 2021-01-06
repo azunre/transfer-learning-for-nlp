@@ -55,7 +55,7 @@ brewer2mpl==1.4.1
 brotlipy==0.7.0
 cachetools==3.1.1
 cairocffi==1.1.0
-CairoSVG==2.4.2
+CairoSVG==2.5.1
 Cartopy @ file:///home/conda/feedstock_root/build_artifacts/cartopy_1588596947365/work
 catalogue==1.0.0
 catalyst==20.7
