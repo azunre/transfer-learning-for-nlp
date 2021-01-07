@@ -273,7 +273,7 @@ llvmlite==0.29.0
 lml==0.0.9
 locket==0.2.0
 lunardate==0.2.0
-lxml==4.4.1
+lxml==4.6.2
 lz4==2.1.2
 Mako==1.1.0
 marisa-trie==0.7.5
