@@ -15,7 +15,7 @@ Alternatively, consider installing Anaconda locally and running the notebooks th
 
 In that case, heed the aforementioned caution about the provided kaggle_image_requirements.txt dependency files. You will likely deal with a lot installation debugging, etc. While this is a great learning experience everyone should try at least once in their career, do so at your own risk :-)
 
-The following is an evolving list of notebooks that have been hosted so far, their corresponding Chapters and Kaggle links.
+The following is a list of notebooks that have been hosted, their corresponding Chapters and Kaggle links.
 
 
 | Chapter(s)  | Description | Kaggle link 
@@ -46,15 +46,13 @@ The following is an evolving list of notebooks that have been hosted so far, the
 
 
 
-
-
 To reiterate, just hit `Copy and Edit Kernel` at the top right of each Kaggle kernel page (after creating an account) to get going right away. Note that for GPU enabled notebooks, your **FREE** Kaggle GPU time is limited (to 30-40 hours/week in 2020, with the clock resetting at the end of each Friday). Be cautious and shut such notebooks down when not needed, when debugging non-GPU critical parts of the code, etc.
 
 Kaggle  frequently  updates  the  dependencies,  i.e.,  versions  of  the  installed libraries on their docker images. To ensure that you are using the same dependencies as  we  did when  we  wrote  the  code – so  that  the  code  works  with  minimal  changes out-of-the-box – please make sure to select `Copy and Edit Kernel` for each notebook of  interest. If you  copy and paste the code into a new notebook and don’t follow this recommended process, you  may need  to adapt the code slightly for  the  specific  library versions installed for that notebook at the time you created it. 
 
 This also applies if you elect to install a local environment.   For local installation, pay attention to the frozen dependency requirement list we have shared in the companion repo, which will guide you on which versions of libraries you will need. 
 
-Finally, please note that while our aim is to update the code  to Tensorflow version >=2.0 syntax by the final release date  of  the  book, currently it is implemented in the more stable version <2.0 syntax.
+Finally, please note that while our initial aim in Chapters 2 and 3 was to write updated Tensorflow version >=2.0 syntax code, this is currently not possible for our experiment due to the dependency requirements of the `bert-tensorflow` package (see [this discussion](https://github.com/google-research/bert/issues/1140)). This is not that big of a deal, since we transition in later chapters from Tensorflow and Keras to the Hugging Face transformers library. That library uses latest dependencies (including Tensorflow >=2.0 in the backend, if you prefer it over PyTorch). In this context, you could view the exercise in Chapters 2-3, implemented in the more stable version <2.0 syntax, as a historical record of and experience with the initial packages that were developed for this problem.
 
 
 
