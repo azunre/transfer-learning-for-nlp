@@ -43,7 +43,7 @@ The following is a list of notebooks that have been hosted, their corresponding 
 | 10 | Fine-tuning BERT on a single GLUE task of measuring sentence similarity, i.e., STS-B | https://www.kaggle.com/azunre/tlfornlp-chapter10-multi-task-single-glue
 | 10 | Fine-tuning BERT on a multiple GLUE tasks (*sequential adaptation*): first to a data-rich question similarity scenario (QQP), followed by adaptation to a sentence similarity scenario (STS-B)| https://www.kaggle.com/azunre/tlfornlp-chapter10-multi-task-glue-sequential
 | 10 | Using pretrained adapter modules with AdapterHub instead of fine-tuning| https://www.kaggle.com/azunre/tlfornlp-chapter10-adapters
-
+| Appendix B | Using Tensorflow V1, V2 and PyTorch to compute a function and its gradient via automatic differentiation | https://www.kaggle.com/azunre/tl-for-nlp-appendixb
 
 
 To reiterate, just hit `Copy and Edit Kernel` at the top right of each Kaggle kernel page (after creating an account) to get going right away. Note that for GPU enabled notebooks, your **FREE** Kaggle GPU time is limited (to 30-40 hours/week in 2020, with the clock resetting at the end of each Friday). Be cautious and shut such notebooks down when not needed, when debugging non-GPU critical parts of the code, etc.
