@@ -1,5 +1,5 @@
 # Transfer Learning for Natural Language Processing
-Companion repository to Paul Azunre's "Transfer Learning for Natural Language Processing" Book
+Companion repository to [Paul Azunre's "Transfer Learning for Natural Language Processing" Book](https://www.manning.com/books/transfer-learning-for-natural-language-processing)
 
 **Please note that this version of the repo follows a recent significant reordering of chapters. If you are looking for the original outdated ordering used during most of MEAP, please refer to [this repo version](https://github.com/azunre/transfer-learning-for-nlp/tree/57e3a316d51b7f7274ddff12be0fc3e0a2d77029)**
 
@@ -13,7 +13,7 @@ NOTE: If you just copy and paste code into a new kernel, instead of taking the r
 
 Alternatively, consider installing Anaconda locally and running the notebooks that way, potentially after converting to `.py` files if that is your preference.
 
-In that case, heed the aforementioned caution about the provided kaggle_image_requirements.txt dependency files. You will likely deal with a lot installation debugging, etc. While this is a great learning experience everyone should try at least once in their career, do so at your own risk :-)
+In that case, heed the aforementioned caution about the provided `kaggle_image_requirements.txt` dependency files. You will likely deal with a lot installation debugging, etc. While this is a great learning experience everyone should try at least once in their career, do so at your own risk :-)
 
 The following is a list of notebooks that have been hosted, their corresponding Chapters and Kaggle links.
 
