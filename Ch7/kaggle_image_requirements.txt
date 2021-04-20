@@ -443,7 +443,7 @@ protobuf==3.12.2
 psutil==5.7.0
 ptyprocess==0.6.0
 pudb==2019.2
-py==1.8.1
+py==1.10.0
 py-cpuinfo==7.0.0
 py-lz4framed==0.14.0
 py-spy==0.3.3
