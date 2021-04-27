@@ -1,5 +1,5 @@
 # Transfer Learning for Natural Language Processing
-Companion repository to [Paul Azunre's "Transfer Learning for Natural Language Processing" Book](https://www.manning.com/books/transfer-learning-for-natural-language-processing)
+Companion repository to [Paul Azunre's "Transfer Learning for Natural Language Processing" Book](https://www.manning.com/books/transfer-learning-for-natural-language-processing?utm_source=azunre&utm_medium=affiliate&utm_campaign=book_azunre_transfer_3_10_20&a_aid=azunre&a_bid=d53fed17)
 
 ## Preliminary Instructions
 
