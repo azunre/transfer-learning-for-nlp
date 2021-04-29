@@ -475,7 +475,7 @@ pytz==2019.2
 PyUpSet==0.1.1.post7
 pyviz-comms==0.7.2
 PyWavelets==1.0.3
-PyYAML==5.1.2
+PyYAML==5.4
 pyzmq==18.1.0
 qgrid==1.1.1
 QtAwesome==0.6.0
