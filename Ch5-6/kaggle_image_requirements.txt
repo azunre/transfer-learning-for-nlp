@@ -364,7 +364,7 @@ pep8==1.7.1
 pexpect==4.7.0
 phik==0.9.8
 pickleshare==0.7.5
-Pillow==5.4.1
+Pillow==8.1.1
 pkginfo==1.5.0.1
 plac==0.9.6
 plotly==4.1.0
