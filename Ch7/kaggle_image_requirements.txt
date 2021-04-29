@@ -263,7 +263,7 @@ jdcal==1.4.1
 jedi==0.15.2
 jeepney==0.4.3
 jieba==0.42.1
-Jinja2==2.11.2
+Jinja2==2.11.3
 jinja2-time==0.2.0
 jmespath==0.10.0
 joblib==0.14.1
