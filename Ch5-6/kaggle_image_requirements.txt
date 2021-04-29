@@ -388,7 +388,7 @@ protobuf==3.7.1
 psutil==5.6.3
 ptyprocess==0.6.0
 pudb==2019.1
-py==1.8.0
+py==1.10.0
 py-cpuinfo==5.0.0
 py-lz4framed==0.13.0
 py-stringmatching==0.4.1
