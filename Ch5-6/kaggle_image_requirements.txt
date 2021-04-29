@@ -486,7 +486,7 @@ revrand==0.6.5
 rf-perm-feat-import==0.1
 rgf-python==3.6.0
 rope==0.14.0
-rsa==4.0
+rsa==4.1
 Rtree==0.8.3
 ruamel-yaml==0.15.46
 s2sphere==0.2.5
