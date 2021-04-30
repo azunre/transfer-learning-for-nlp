@@ -548,7 +548,7 @@ resampy==0.2.2
 retrying==1.3.3
 rgf-python==3.8.0
 rope==0.16.0
-rsa==4.0
+rsa==4.7
 Rtree==0.9.4
 ruamel-yaml==0.15.80
 s2sphere==0.2.5
