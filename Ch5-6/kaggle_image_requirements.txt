@@ -140,7 +140,7 @@ fitter==1.1.11
 flake8==3.6.0
 flashtext==2.7
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 folium==0.10.0
 fsspec==0.4.0
 ftfy==4.4.3
