@@ -675,7 +675,7 @@ unicodecsv==0.14.1
 Unidecode==1.1.1
 update-checker==0.17
 uritemplate==3.0.1
-urllib3==1.24.3
+urllib3==1.26.5
 urwid==2.1.0
 vecstack==0.4.0
 visions==0.4.1
