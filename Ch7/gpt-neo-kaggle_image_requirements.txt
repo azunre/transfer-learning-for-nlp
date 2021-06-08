@@ -393,7 +393,7 @@ PDPbox @ git+https://github.com/SauceCat/PDPbox@b022a0aabcc6dbe2440244bf48d08fbb
 pexpect @ file:///home/conda/feedstock_root/build_artifacts/pexpect_1602535608087/work
 phik @ file:///home/conda/feedstock_root/build_artifacts/phik_1590331950347/work
 pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
-Pillow==7.2.0
+Pillow==8.2.0
 plac==1.1.3
 plotly==4.14.3
 plotly-express==0.4.1
