@@ -1,9 +1,12 @@
 # Transfer Learning for Natural Language Processing
-Companion repository to [Paul Azunre's "Transfer Learning for Natural Language Processing" Book](https://www.manning.com/books/transfer-learning-for-natural-language-processing?utm_source=azunre&utm_medium=affiliate&utm_campaign=book_azunre_transfer_3_10_20&a_aid=azunre&a_bid=d53fed17)
+Companion repository to [Paul Azunre's "Transfer Learning for Natural Language Processing" Book](https://tinyurl.com/47p8zzrv)
 
 ## Preliminary Instructions
 
 **Please note that this version of the repo follows a recent significant reordering of chapters. If you are looking for the original outdated ordering used during most of MEAP, please refer to [this repo version](https://github.com/azunre/transfer-learning-for-nlp/tree/57e3a316d51b7f7274ddff12be0fc3e0a2d77029)**
+
+Watch the following intro video first!
+[![intro video](play-intro-video.png?raw=true)](https://www.youtube.com/watch?v=WIerqDFc5JM)
 
 Rendered Jupyter notebooks are organized in folders by Chapter in this repo, with each folder containing a corresponding `kaggle_image_requirements.txt` file representing Kaggle docker image pip dependency dump at the time of their latest succesful run by the author. 
 
@@ -15,7 +18,7 @@ Ideally, run these notebooks directly on Kaggle, where notebooks are already hos
 
 
 ## WARNING
-Please make sure to **"COPY AND EDIT NOTEBOOK"** to use compatible library dependencies! **DO NOT CREATE A NEW NOTEBOOK AND COPY+PASTE THE CODE** - this will use the latest pre-installed Kaggle dependencies at the time you create the new notebook, and the code will need to be modified to make it work. Also make sure internet connectivity is enabled on your notebook. See Appendix A of book for a tutorial introduction to various features of Kaggle.
+Please make sure to **"COPY AND EDIT NOTEBOOK"** on Kaggle, i.e., *fork* it, to use compatible library dependencies! **DO NOT CREATE A NEW NOTEBOOK AND COPY+PASTE THE CODE** - this will use the latest pre-installed Kaggle dependencies at the time you create the new notebook, and the code will need to be modified to make it work. Also make sure internet connectivity is enabled on your notebook. See Appendix A of book for a tutorial introduction to various features of Kaggle.
 
 ## Companion Notebooks
 
