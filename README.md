@@ -5,7 +5,8 @@ Companion repository to [Paul Azunre's "Transfer Learning for Natural Language P
 
 **Please note that this version of the repo follows a recent significant reordering of chapters. If you are looking for the original outdated ordering used during most of MEAP, please refer to [this repo version](https://github.com/azunre/transfer-learning-for-nlp/tree/57e3a316d51b7f7274ddff12be0fc3e0a2d77029)**
 
-Watch [[this intro video](play-intro-video.png?raw=true)](https://www.youtube.com/watch?v=WIerqDFc5JM) first!
+Watch the following intro video first!
+[![intro video](play-intro-video.png?raw=true)](https://www.youtube.com/watch?v=WIerqDFc5JM) first!
 
 Rendered Jupyter notebooks are organized in folders by Chapter in this repo, with each folder containing a corresponding `kaggle_image_requirements.txt` file representing Kaggle docker image pip dependency dump at the time of their latest succesful run by the author. 
 
