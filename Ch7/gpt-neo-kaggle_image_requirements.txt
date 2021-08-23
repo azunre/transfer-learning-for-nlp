@@ -262,7 +262,7 @@ jupyter-client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_clien
 jupyter-console==6.4.0
 jupyter-core @ file:///home/conda/feedstock_root/build_artifacts/jupyter_core_1612125257337/work
 jupyter-http-over-ws==0.0.8
-jupyterlab==1.2.16
+jupyterlab==1.2.21
 jupyterlab-git @ file:///home/conda/feedstock_root/build_artifacts/jupyterlab-git_1598805204722/work
 jupyterlab-pygments @ file:///home/conda/feedstock_root/build_artifacts/jupyterlab_pygments_1601375948261/work
 jupyterlab-server @ file:///home/conda/feedstock_root/build_artifacts/jupyterlab_server_1593951277307/work
