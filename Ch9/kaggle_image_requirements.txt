@@ -369,7 +369,7 @@ netCDF4==1.5.3
 networkx==2.4
 nibabel==3.1.0
 nilearn==0.6.2
-nltk==3.2.4
+nltk==3.6.3
 nnabla==1.7.0
 nnabla-ext-cuda101==1.7.0
 nolearn==0.6.1
