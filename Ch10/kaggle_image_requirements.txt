@@ -381,7 +381,7 @@ networkx==2.4
 nibabel==3.1.1
 nilearn==0.6.2
 nlp==0.4.0
-nltk==3.2.4
+nltk==3.6.3
 nnabla==1.8.0
 nnabla-ext-cuda101==1.8.0
 nolearn==0.6.1
