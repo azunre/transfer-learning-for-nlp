@@ -331,7 +331,7 @@ odfpy==1.4.0
 olefile==0.46
 onnx==1.5.0
 opencv-python==4.1.0.25
-opencv-python-headless==4.1.0.25
+opencv-python-headless==4.1.1.26
 openpyxl==2.6.2
 optuna==0.14.0
 orderedmultidict==1.0.1
