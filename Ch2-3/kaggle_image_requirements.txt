@@ -336,7 +336,7 @@ nvidia-ml-py3==7.352.0
 odfpy==1.4.0
 olefile==0.46
 onnx==1.5.0
-opencv-python==4.1.1.26
+opencv-python==4.2.0.32
 opencv-python-headless==4.1.1.26
 openpyxl==2.6.3
 optuna==0.16.0
