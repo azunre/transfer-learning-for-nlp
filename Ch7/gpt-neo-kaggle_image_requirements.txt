@@ -26,7 +26,7 @@ audioread==2.1.9
 autocfg==0.0.8
 autogluon.core==0.1.0
 autograd==1.3
-Babel==2.9.0
+Babel==2.9.1
 backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
 backports.functools-lru-cache==1.6.1
 basemap @ file:///home/conda/feedstock_root/build_artifacts/basemap_1602682523538/work
