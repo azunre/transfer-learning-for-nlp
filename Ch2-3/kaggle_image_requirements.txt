@@ -97,7 +97,7 @@ cymem==2.0.2
 cysignals==1.10.2
 Cython==0.29.13
 cytoolz==0.10.0
-dask==2.4.0
+dask==2021.10.0
 dask-glm==0.2.0
 dask-ml==1.0.0
 dask-xgboost==0.1.7
