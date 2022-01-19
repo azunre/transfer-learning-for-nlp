@@ -27,8 +27,8 @@ The following is a list of notebooks that have been hosted, their corresponding 
 
 | Chapter(s)  | Description | Kaggle link 
 |-------------|-------------|-------------|
-| 2-3 | Linear & Tree-based models for Email Sentiment Classification | https://www.kaggle.com/azunre/tlfornlp-chapters2-3-imdb-traditional
-| 2-3 | Linear & Tree-based models for IMDB Movie Review Classification | https://www.kaggle.com/azunre/tlfornlp-chapters2-3-spam-traditional
+| 2-3 | Linear & Tree-based models for Email Sentiment Classification | https://www.kaggle.com/azunre/tlfornlp-chapters2-3-spam-traditional
+| 2-3 | Linear & Tree-based models for IMDB Movie Review Classification | https://www.kaggle.com/azunre/tlfornlp-chapters2-3-imdb-traditional
 | 2-3 | ELMo for Email Semantic Classification | https://www.kaggle.com/azunre/tlfornlp-chapters2-3-spam-elmo
 | 2-3 | ELMo for IMDB Movie Review Classification | https://www.kaggle.com/azunre/tlfornlp-chapters2-3-imdb-elmo
 | 2-3 | BERT for Email Semantic Classification | https://www.kaggle.com/azunre/tlfornlp-chapters2-3-spam-bert
@@ -58,7 +58,7 @@ The following is a list of notebooks that have been hosted, their corresponding 
 
 **To reiterate**, just hit `Copy and Edit Kernel` at the top right of each Kaggle kernel page (after creating an account) to get going right away. Note that for GPU enabled notebooks, your **FREE** Kaggle GPU time is limited (to 30-40 hours/week in 2020, with the clock resetting at the end of each Friday). Be cautious and shut such notebooks down when not needed, when debugging non-GPU critical parts of the code, etc.
 
-Kaggle  frequently  updates  the  dependencies,  i.e.,  versions  of  the  installed libraries on their docker images. To ensure that you are using the same dependencies as  we  did when  we  wrote  the  code – so  that  the  code  works  with  minimal  changes out-of-the-box – please make sure to select `Copy and Edit Kernel` for each notebook of  interest. If you  copy and paste the code into a new notebook and don’t follow this recommended process, you  may need  to adapt the code slightly for  the  specific  library versions installed for that notebook at the time you created it. 
+Kaggle  frequently  updates  the  dependencies,  i.e.,  versions  of  the  installed libraries on their docker images. To ensure that you are using the same dependencies as  we  did when  we  wrote  the  code â€“ so  that  the  code  works  with  minimal  changes out-of-the-box â€“ please make sure to select `Copy and Edit Kernel` for each notebook of  interest. If you  copy and paste the code into a new notebook and donâ€™t follow this recommended process, you  may need  to adapt the code slightly for  the  specific  library versions installed for that notebook at the time you created it. 
 
 This also applies if you elect to install a local environment.   For local installation, pay attention to the frozen dependency requirement list we have shared in the companion repo, which will guide you on which versions of libraries you will need. Moreover, most of the requirements will not be necessary for local installation.
 
