@@ -256,7 +256,7 @@ implicit==0.4.2
 importlib-metadata==1.6.0
 intervaltree==3.0.2
 ipykernel==5.1.1
-ipython==7.13.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 ipython-sql==0.3.9
 ipywidgets==7.5.1
