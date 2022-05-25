@@ -479,7 +479,7 @@ pyfasttext==0.4.6
 pyflakes==2.1.1
 pyglet==1.5.0
 Pygments==2.6.1
-PyJWT==1.7.1
+PyJWT==2.4.0
 pykalman==0.9.5
 pyLDAvis==2.1.2
 pylint==2.4.4
