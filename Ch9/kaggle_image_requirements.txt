@@ -676,7 +676,7 @@ typed-ast==1.4.1
 typing==3.7.4.1
 typing-extensions==3.7.4.1
 tzlocal==2.1
-ujson==1.35
+ujson==5.2.0
 umap-learn @ https://api.github.com/repos/lmcinnes/umap/tarball/5f9488a9540d1e0ac149e2dd42ebf03c39706110
 unicodecsv==0.14.1
 Unidecode==1.1.1
