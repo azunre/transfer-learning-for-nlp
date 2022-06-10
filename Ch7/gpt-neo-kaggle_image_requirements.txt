@@ -86,7 +86,7 @@ confuse @ file:///home/conda/feedstock_root/build_artifacts/confuse_160598813431
 contextily==1.1.0
 contextlib2==0.6.0.post1
 convertdate==2.3.2
-cookiecutter==1.7.2
+cookiecutter==2.1.1
 cryptography @ file:///home/conda/feedstock_root/build_artifacts/cryptography_1612993734132/work
 cufflinks==0.17.3
 CVXcanon==0.1.2
