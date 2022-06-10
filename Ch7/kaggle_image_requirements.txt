@@ -94,7 +94,7 @@ contextily==1.0.0
 contextlib2==0.6.0.post1
 convertdate==2.2.1
 conx==3.7.10
-cookiecutter==1.7.0
+cookiecutter==2.1.1
 coverage==5.2
 cryptography==2.8
 cssselect2==0.3.0
