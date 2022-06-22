@@ -330,7 +330,7 @@ notebook==5.5.0
 numba==0.45.1
 numdifftools==0.9.39
 numexpr==2.6.9
-numpy==1.16.4
+numpy==1.22.0
 numpydoc==0.9.1
 nvidia-ml-py3==7.352.0
 odfpy==1.4.0
