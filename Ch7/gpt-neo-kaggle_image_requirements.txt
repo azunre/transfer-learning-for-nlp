@@ -293,7 +293,7 @@ lmdb==1.1.1
 lml==0.1.0
 locket==0.2.1
 LunarCalendar==0.0.9
-lxml==4.6.3
+lxml==4.9.1
 Mako==1.1.4
 mapclassify==2.4.2
 marisa-trie==0.7.5
