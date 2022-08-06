@@ -649,7 +649,7 @@ stemming==1.0.1
 stevedore==3.2.1
 stop-words==2018.7.23
 stopit==1.1.2
-streamlit==0.73.1
+streamlit==1.11.1
 subprocess32==3.5.4
 svgwrite==1.4
 sympy==1.5.1
