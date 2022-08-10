@@ -311,7 +311,7 @@ munch==2.3.2
 murmurhash==1.0.2
 mxnet==1.5.0
 navigator-updater==0.2.1
-nbconvert==5.5.0
+nbconvert==6.3.0
 nbformat==4.4.0
 nervananeon==2.6.0
 networkx==2.3
