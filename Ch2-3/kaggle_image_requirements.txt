@@ -608,7 +608,7 @@ vega3==0.13.0
 vida==0.3
 visvis==1.11.2
 vowpalwabbit==8.5.0
-vtk==8.1.2
+vtk==9.0.1
 Wand==0.5.3
 wasabi==0.2.2
 wavio==0.0.4
