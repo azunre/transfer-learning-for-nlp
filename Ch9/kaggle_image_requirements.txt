@@ -318,7 +318,7 @@ lml==0.0.9
 locket==0.2.0
 LunarCalendar==0.0.9
 lxml==4.5.0
-Mako==1.1.2
+Mako==1.2.2
 mapclassify==2.2.0
 marisa-trie==0.7.5
 Markdown==3.2.1
