@@ -264,7 +264,7 @@ learntools==0.3.1
 leven==1.0.4
 libarchive-c==2.8
 librosa==0.7.0
-lief==0.9.0
+lief==0.12.1
 lightfm==1.15
 lightgbm==2.2.3
 lime==0.1.1.36
