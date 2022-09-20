@@ -308,7 +308,7 @@ learntools @ git+https://github.com/Kaggle/learntools@5ca17862066bc4bbfc79b82df6
 leven==1.0.4
 libarchive-c==2.9
 librosa==0.7.2
-lief==0.9.0
+lief==0.12.1
 lightfm==1.15
 lightgbm==2.3.1
 lime==0.2.0.0
