@@ -439,7 +439,7 @@ prometheus-client==0.7.1
 promise==2.3
 prompt-toolkit==3.0.5
 pronouncing==0.2.0
-protobuf==3.12.2
+protobuf==3.18.3
 psutil==5.7.0
 ptyprocess==0.6.0
 pudb==2019.2
