@@ -274,7 +274,7 @@ jieba==0.42.1
 Jinja2==2.11.2
 jinja2-time==0.2.0
 jmespath==0.9.5
-joblib==0.14.1
+joblib==1.2.0
 json5==0.9.0
 jsonnet==0.15.0
 jsonpickle==1.4.1
