@@ -51,7 +51,7 @@ CairoSVG==2.4.1
 Cartopy==0.17.0
 catboost==0.16.5
 category-encoders==2.0.0
-certifi==2019.6.16
+certifi==2022.12.7
 cesium==0.9.9
 cffi==1.12.3
 chainer==6.2.0
