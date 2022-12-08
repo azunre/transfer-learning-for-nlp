@@ -61,7 +61,7 @@ catalogue==1.0.0
 catalyst==20.5
 catboost==0.23
 category-encoders @ git+https://github.com/scikit-learn-contrib/categorical-encoding.git@ea9428a896bef77baf8b26159f7030cee924e916
-certifi==2020.4.5.1
+certifi==2022.12.7
 cesium==0.9.12
 cffi==1.14.0
 cftime==1.1.2
